@@ -1,4 +1,6 @@
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:1c2333&height=120&section=header" width="100%" alt=""/>
+-->
 
 > I build compilers, operating systems, and programming languages. The lower the level, the better.
 
@@ -8,6 +10,7 @@
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,ts,js,php,html,css&theme=dark" alt="languages" />
 
+<!--
 <br/>
 
 <picture>
@@ -17,3 +20,4 @@
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2333,60:161b22,100:0d1117&height=120&section=footer" width="100%" alt=""/>
+-->
