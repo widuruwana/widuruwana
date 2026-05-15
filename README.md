@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:1c2333&height=120&section=header" width="100%" alt=""/>
 
-<!--
-**widuruwana/widuruwana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build compilers, operating systems, and programming languages. The lower the level, the better.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,py,ts,js,php,html,css&theme=dark" alt="languages" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/widuruwana/widuruwana/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/widuruwana/widuruwana/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/widuruwana/widuruwana/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2333,60:161b22,100:0d1117&height=120&section=footer" width="100%" alt=""/>
