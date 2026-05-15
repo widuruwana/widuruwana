@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:1c2333&height=120&section=header" width="100%" alt=""/>
 
-I build compilers, operating systems, and programming languages. The lower the level, the better.
+> I build compilers, operating systems, and programming languages. The lower the level, the better.
 
 <br/>
 
