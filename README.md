@@ -8,7 +8,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,forth,rust,mysql,py,ts,js,php,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,py,php,js,html,css&theme=dark" alt="languages" />
 
 <!--
 <br/>
